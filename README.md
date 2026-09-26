@@ -193,8 +193,3 @@ Feedback: Excellent explanation. You covered most key points.
 ✓ Beautiful Streamlit UI  
 ✓ RESTful API backend  
 
----
-
-## 🎉 Ready to Use!
-
-Everything is set up and ready. Just run the commands above and start transcribing videos!
