@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+streamlit
+opencv-python
+openai-whisper
+ultralytics
+sentence-transformers
+torch
+numpy
+ffmpeg-python
+librosa
+requests
+langdetect
+scikit-learn
+python-dotenv
