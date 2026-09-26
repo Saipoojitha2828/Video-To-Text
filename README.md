@@ -62,7 +62,7 @@ Textify is an AI-powered application that:
 
 **🏗️ System Architecture**
 
-<img width="1472" height="1608" alt="image" src="https://github.com/user-attachments/assets/e48fbd6e-9895-48d7-a3d7-397bada44822" />
+<img width="657" height="732" alt="image" src="https://github.com/user-attachments/assets/5238d543-cffa-41d0-8802-eeddfef77532" />
 
 ---
 
